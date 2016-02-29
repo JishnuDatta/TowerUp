@@ -1,0 +1,33 @@
+
+Assets.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Buttons
+  rotate: false
+  xy: 1, 31
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: -1
+Points Blocks
+  rotate: false
+  xy: 1, 20
+  size: 63, 9
+  orig: 63, 9
+  offset: 0, 0
+  index: -1
+Player
+  rotate: false
+  xy: 1, 1
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+Color Bar
+  rotate: false
+  xy: 259, 62
+  size: 10, 1
+  orig: 10, 1
+  offset: 0, 0
+  index: -1
